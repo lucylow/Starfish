@@ -12,7 +12,7 @@ Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock D
 ### Introduction
 Quality data is an asset for data scientists and researchers. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
 
-Target base: Consumers who need massive amounts of data. AI specialists, data scientists, big data engineerins, or buisness intelligence professionals.
+Target base: AI specialists, data scientists, big data engineers, or buisness intelligence professionals.
 
 ---
 Judging Criteria 
