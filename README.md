@@ -30,18 +30,18 @@ Built on top of the Ocean Protocol. Starfish helps to unlock data, particularly 
 
 The primary users of the Starfish marketplace are those who benefit from quality data: 
 
-1. Individuals
+**1. Individuals**
   * AI specialists
   * Data scientists
   * Big data engineers
   * Buisness intelligence professionals
   
-2. Companies - Startups to multi-national enterprises
+**2. Coporate : From AI startups to international enterprises**
   * Accenture
   * CGI
   * KPMG
   
-3. Goverment
+**3. Goverment**
   * Large databases to collect information
   * Ex including climate monitoring, securities law compliance, geological surveys, patent applications and grants, surveillance, national security, border control, law enforcement, public health, voter registration, or vehicle registration
 
