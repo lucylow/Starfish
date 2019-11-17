@@ -36,14 +36,14 @@ The primary users of the Starfish marketplace are those who benefit from quality
   * Big data engineers
   * Buisness intelligence professionals
   
-**2. Coporate : From AI startups to international enterprises**
+**2. Corporate : From AI startups to international enterprises**
   * Accenture
   * CGI
   * KPMG
   
 **3. Goverment**
   * Large databases to collect information
-  * Ex including climate monitoring, securities law compliance, geological surveys, patent applications and grants, surveillance, national security, border control, law enforcement, public health, voter registration, or vehicle registration
+  * Ex. including climate monitoring, securities law compliance, geological surveys, patent applications and grants, surveillance, national security, border control, law enforcement, public health, voter registration, or vehicle registration
 
 ----
 ### Business Revenue Model
