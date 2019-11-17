@@ -6,8 +6,10 @@
   [![License](https://img.shields.io/aur/license/android-studio.svg)]()
    
    
+---
+### Introduction &#x1F49C;
 
-The Proof of Concept (PoC) Data Marketplace built for [Ocean Protocol's Data Economy Challenge](https://oceanprotocol.com/challenge/1/). A decentralized data echange that inventivies publishing data for raining artificial intelligence models. Encourages distribution and consumption of data for data scientists and AI researchers.
+The Proof of Concept (PoC) Data Marketplace. A decentralized data exchange that inventivies publishing data for training artificial intelligence models. Encourages distribution and consumption of data for AI specialists, data scientists, big data engineers, or buisness intelligence professionals. Quality data is an asset for data scientists and researchers. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
 
 Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock Data for Artifical Intelligence"](https://oceanprotocol.com/marketplace-framework.pdf).
 
@@ -15,11 +17,6 @@ Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock D
 * Making research data machine more readable
 * Supporting text and data mining as standards and essential tool for research
 
----
-### Introduction &#x1F49C;
-Quality data is an asset for data scientists and researchers. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
-
-Target: AI specialists, data scientists, big data engineers, or buisness intelligence professionals.
 
 ---
 ### Judging Criteria &#x1F49C; 
