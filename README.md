@@ -66,7 +66,7 @@ Phase 2 includes the first implementation of an off-chain network, which will ru
 
 Ocean provides the mechanism for storing every assets's metadata including links to the asset, asset ownership and associated IP licensing information.
 
-Lucy's Data Marketplace is governed by a smart contract deployed on the Ethereum network that is operated directly with ________ tokens . The smart contract allows data curators to register new data sets, and allows users to subscribe to existing data sets. The subscription period defaults to one month, and prices for all data sets are designated accordingly as monthly costs.
+Starfish Data Marketplace is governed by a smart contract deployed on the Ethereum network that is operated directly with ________ tokens . The smart contract allows data curators to register new data sets, and allows users to subscribe to existing data sets. The subscription period defaults to one month, and prices for all data sets are designated accordingly as monthly costs.
 
 The Data Marketplace contract is publicly available and can be used by any other contract in the network. The smart contract stores each of the data sets metadata (owner, price, number of subscriptions,...) and information about each subscription to any data set (price, start time and end time).
 
@@ -206,7 +206,7 @@ Ocean has data Science tools like Jupyter notebook (implemented with Manta Ray  
     
     
 ### Conclusion 
-The goal of Ocean is to unlock massive troves of data for consumption by AI in an equitabe and secure manner. The deployment of Lucy's Decentralized Data Marketplace on Ocean Protocol is done by asset tokenization on the blockchain. The power is redistributed by liberating siloed data and opening it up to data scientists and AI researchers. This will help engage the community, leverage data, and revolutionize the world. 
+The goal of Ocean is to unlock massive troves of data for consumption by AI in an equitabe and secure manner. The deployment of Starfish Decentralized Data Marketplace on Ocean Protocol is done by asset tokenization on the blockchain. The power is redistributed by liberating siloed data and opening it up to data scientists and AI researchers. This will help engage the community, leverage data, and revolutionize the world. 
 ---
 
 ### References 
