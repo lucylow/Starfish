@@ -36,7 +36,7 @@ The primary users of the Starfish marketplace are those who benefit from quality
   * AI specialists
   * Data scientists
   * Big data engineers
-  * Buisness intelligence professionals
+  * Business intelligence
   
 **2. Corporate : From AI startups to international enterprises**
   * Accenture
