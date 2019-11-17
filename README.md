@@ -9,9 +9,9 @@
 ---
 ### Problem  &#x1F49C;
 
-There is a problem with the distribution and consumption of data for AI specialists, data scientists, big data engineers, and buisness intelligence professionals. There is a need for high quality data in research. Most companies have tremendous amounts of data, but have difficulty exploiting it. Conversely, many others are starving for data, particularly in AI. Starfish allows data providers to share data, while maintaining control and having transparency.
+There is a need for high quality data in research. The problem is with distribution and consumption of data for AI specialists, data scientists, big data engineers, and buisness intelligence professionals. Most companies have tremendous amounts of data, but have difficulty exploiting. Conversely, many others are starving for data, particularly in AI. **Starfish allows data providers to share data, while maintaining control and having transparency.**
 
-
+---
 
 ### Solution: Starfish Decentralized Data Marketplace &#x1F49C;
 
@@ -43,20 +43,21 @@ The primary users of the Starfish marketplace are those who benefit from quality
   
 **3. Goverment**
   * Large databases to collect information
-  * Ex. including climate monitoring, securities law compliance, geological surveys, patent applications and grants, surveillance, national security, border control, law enforcement, public health, voter registration, or vehicle registration
+  * Ex. Datasets on climate monitoring, securities law compliance, geological surveys, patent applications and grants, surveillance, national security, border control, law enforcement, public health, voter registration, or vehicle registration
 
 ----
 ### Business Revenue Model
 
-**Starfish will be financially sustainable through it's revenue from the Subscription (Monthly fee) model**. A Subscription holds the reference to instances of user-defined Contracts. Contracts are the custom and user defined artifact that describe a data subscription service. These are custom contracts that the buyer interacts with. The existence of these contracts live within subscriptions. 
+**Starfish will be financially sustainable through it's revenue from the Subscription (Monthly fee) model**. Every payment is first made to the Marketplace contract and is held until the Subscription is expired or the Data provider is punished (should their data stop being available)
 
-**The data consumers are the users in the Data Marketplace that pay for data.**  
+* A Subscription holds the reference to instances of user-defined Contracts. 
+* Contracts are the custom and user defined artifact that describe a data subscription service. 
+* These are custom contracts that the data provider and consumer interacts with. 
+* The existence of these contracts live within subscriptions. 
 
-Every payment is first made to the Marketplace contract and is held until the Subscription is expired or the Data provider is punished (should their data stop being available). In case the data provider was punished then and only then, the subscriber will able to ask for a refund. The refund is prorated on the fraction of the monthly subscription when the data was available, and will be deposited back to the subscriber’s address. 
-
-Data consumer needs to subscribe to the desired dataset to access an existing dataset:
-1. The subscriber approves the Starfish Data Marketplace contract as a spender in the ERC20 contract on their behalf for the specified amount (the monthly subscription for that dataset).
-2. Once the Marketplace contract has been approved, a consumer can send a subscription transaction that includes the desired dataset name. The price is specified in the dataset stored in the marketplace contract, and the amount is transferred on behalf of the user.
+**The data consumers are the users in the Data Marketplace that pay for data.**  Data consumer needs to subscribe to the desired dataset to access an existing dataset:
+  1. The subscriber approves the Starfish Data Marketplace contract as a spender in the ERC20 contract on their behalf for the specified amount (the monthly subscription for that dataset).
+  2. Once the Marketplace contract has been approved, a consumer can send a subscription transaction that includes the desired dataset name. The price is specified in the dataset stored in the marketplace contract, and the amount is transferred on behalf of the user.
 
 ---
 
