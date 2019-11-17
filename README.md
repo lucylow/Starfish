@@ -9,20 +9,22 @@
 ---
 ### Problem  &#x1F49C;
 
-There is a need for high quality data in research. The problem is with distribution and consumption of data for AI specialists, data scientists, big data engineers, and buisness intelligence professionals. Most companies have tremendous amounts of data, but have difficulty exploiting. Conversely, many others are starving for data, particularly in AI. **Starfish allows data providers to share data, while maintaining control and having transparency.**
+There is a need for high quality data in research. The problem is with distribution and consumption of data for AI specialists, data scientists, big data engineers, and business intelligence professionals. Most companies have tremendous amounts of data, but have difficulty exploiting. Conversely, many others are starving for data, particularly in AI. **Starfish allows data providers to share data, while maintaining control and having transparency.**
 
 ---
 
 ### Solution: Starfish Decentralized Data Marketplace &#x1F49C;
 
-The Proof of Concept (PoC) Decentralized Data Marketplace. A data exchange that inventivies publishing data for training artificial intelligence models. The primary users of the Starfish marketplace are those who benefit from quality data: 
+**The Proof of Concept (PoC) Decentralized Data Marketplace.** A data exchange that incentivies publishing data for training artificial intelligence models. The primary users of the Starfish marketplace are those who benefit from quality data: 
 Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets.
 
-Built on top of the Ocean Protocol. Starfish helps to unlock data, particularly for AI. It is designed for scale and uses blockchain technology that allows data to be shared and sold in a safe, secure and transparent manner. Data owners cannot be locked-in to any single marketplace. The data owner controls each dataset. Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock Data for Artifical Intelligence"](https://oceanprotocol.com/marketplace-framework.pdf).
-
+Built on top of the Ocean Protocol. Starfish helps to unlock data, particularly for AI. It is designed for scale and uses blockchain technology that allows data to be shared and sold in a safe, secure and transparent manner. Data owners cannot be locked-in to any single marketplace. The data owner controls each dataset. 
 * Development of data trusts, to improve trust and ease around sharing data
 * Making research data machine more readable
 * Supporting text and data mining as standards and essential tool for research
+
+**Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock Data for Artifical Intelligence"](https://oceanprotocol.com/marketplace-framework.pdf).** 
+
 
 ---
 
@@ -82,13 +84,13 @@ Ocean designed for industrial-scale use. Create a global supply chain of data fo
 Data Marketplaces connect data providers and consumers. The asset to be consumed is data. 
 
 * **Data Providers**
-    * provide the network with data and associated serices in exchange for tokens/ data commons
+    * Provide the network with data and associated serices in exchange for tokens/ data commons
     * As a provider you can unlock your data and earn revenue
-    * providers prime the network and provide data
-    * data reside in situ - exposed to Ocean network protocol via APIs
+    * Providers prime the network and provide data
+    * Data reside in situ - exposed to Ocean network protocol via APIs
     * Providers navigate to marketplace portal, select option to provide access to data, registers for network, provides info about data owner 
-   * transactional information on-chain via keeper-nodes 
-    * assets exposed in a controlled manner to consumer base
+   * Transactional information on-chain via keeper-nodes 
+    * Assets exposed in a controlled manner to consumer base
     * Asset providers control who/what access their assets and how/where assets are being used
     * can make data avaliable in exhcange for tokens using the marketplace 
     
