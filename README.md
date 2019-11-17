@@ -50,7 +50,7 @@ The primary users of the Starfish marketplace are those who benefit from quality
 ----
 ### Business Revenue Model
 
-**Starfish will be financially sustainable through it's revenue from the Subscription (Monthly fee) model**. Every payment is first made to the Marketplace contract and is held until the Subscription is expired or the Data provider is punished (should their data stop being available)
+**Starfish will be financially sustainable through it's revenue from the Subscription (Monthly fee) model**. Every payment is first made to the Marketplace contract and is held until the Subscription is expired or the Data provider stops making their data avaliable: 
 
 * A Subscription holds the reference to instances of user-defined Contracts. 
 * Contracts are the custom and user defined artifact that describe a data subscription service. 
@@ -60,10 +60,7 @@ The primary users of the Starfish marketplace are those who benefit from quality
 **The data consumers are the users in the Data Marketplace that pay for data.**  Data consumer needs to subscribe to the desired dataset to access an existing dataset:
   1. The subscriber approves the Starfish Data Marketplace contract as a spender in the ERC20 contract on their behalf for the specified amount (the monthly subscription for that dataset).
   2. Once the Marketplace contract has been approved, a consumer can send a subscription transaction that includes the desired dataset name. The price is specified in the dataset stored in the marketplace contract, and the amount is transferred on behalf of the user.
-
----
-
-### Business: Data and Pricing &#x1F49C;
+  
 
 **Types of Data**
 * Proprietary Data
@@ -72,8 +69,8 @@ The primary users of the Starfish marketplace are those who benefit from quality
 
 **Pricing of the data**
 * Free Data
-* Proprietary/Regulated, non-free, fungible data
-* Prorpiteary/Regulated, free, non-fungible data
+* Non-free, Proprietary/Regulated, Fungible Data
+* Free, Prorpiteary/Regulated, Non-Fungible Data
 
 ---
 
