@@ -9,16 +9,14 @@
 ---
 ### Problem  &#x1F49C;
 
-Quality data is an asset for data scientists and researchers. There is a problem with the distribution and consumption of data for AI specialists, data scientists, big data engineers, or buisness intelligence professionals.
+Quality data is an asset for data scientists and researchers. There is a problem with the distribution and consumption of data for AI specialists, data scientists, big data engineers, and buisness intelligence professionals.
 
 
-### Solution: Starfish &#x1F49C;
+### Solution: Starfish Decentralized Data Marketplace &#x1F49C;
 
-The Proof of Concept (PoC) Decentralized Data Marketplace. A decentralized data exchange that inventivies publishing data for training artificial intelligence models. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
+The Proof of Concept (PoC) Decentralized Data Marketplace. A data exchange that inventivies publishing data for training artificial intelligence models. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
 
 Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock Data for Artifical Intelligence"](https://oceanprotocol.com/marketplace-framework.pdf).
-
-Join the Ecosystem building the future of distributed, decentralized, and permissionless technologies, together.
 
 * Development of data trusts, to improve trust and ease around sharing data
 * Making research data machine more readable
@@ -254,7 +252,8 @@ Ocean has data Science tools like Jupyter notebook (implemented with Manta Ray  
 
 ### Conclusion &#x1F49C;
 
-The goal of Ocean is to unlock massive troves of data for consumption by AI in an equitabe and secure manner. Starfish Decentralized Data Marketplace on Ocean Protocol is done by asset tokenization on the blockchain. The power is redistributed by liberating siloed data and opening it up to data scientists and AI researchers. This will help engage the community, leverage data, and revolutionize the world. 
+The goal of Ocean is to unlock massive troves of data for consumption by AI in an equitabe and secure manner. Starfish Decentralized Data Marketplace on Ocean Protocol is done by asset tokenization on the blockchain. The power is redistributed by liberating siloed data and opening it up to data scientists and AI researchers. This will help engage the community, leverage data, and revolutionize the world. **Join the Ocean ecosystem building the future of distributed, decentralized, and permissionless technologies with Starfish Data Marketplace.**
+
 
 ---
 
