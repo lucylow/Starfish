@@ -1,4 +1,4 @@
-# Lucy's Data Marketplace
+# Starfish: Decentralized Data Marketplace
 
 The Proof of Concept (PoC) Data Marketplace built for [Ocean Protocol's Data Economy Challenge](https://oceanprotocol.com/challenge/1/). A decentralized data echange that inventivies publishing data for raining artificial intelligence models. Encourages distribution and consumption of data for data scientists and AI researchers.
 
