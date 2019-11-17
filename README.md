@@ -1,4 +1,11 @@
-# Starfish: Decentralized Data Marketplace
+# Starfish: Decentralized Data Marketplace &#x1F49C;
+
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/pulls)
+  [![License](https://img.shields.io/cran/l/devtools.svg)]()
+   
+   
 
 The Proof of Concept (PoC) Data Marketplace built for [Ocean Protocol's Data Economy Challenge](https://oceanprotocol.com/challenge/1/). A decentralized data echange that inventivies publishing data for raining artificial intelligence models. Encourages distribution and consumption of data for data scientists and AI researchers.
 
@@ -9,31 +16,31 @@ Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock D
 * Supporting text and data mining as standards and essential tool for research
 
 ---
-### Introduction
+### Introduction &#x1F49C;
 Quality data is an asset for data scientists and researchers. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
 
 Target: AI specialists, data scientists, big data engineers, or buisness intelligence professionals.
 
 ---
-Judging Criteria 
+### Judging Criteria &#x1F49C; 
 
-### Solving the technical challenge
+Solving the technical challenge 
 
 
-### Large Scale Adoptoion 
+Large Scale Adoptoion 
 * High potential project
 
 
-### Sustainability 
+Sustainability 
 * Can this solution be financially sustainable? Has the team thought through how to best reach & engage target users?
 
-### Effectiveness
+Effectiveness
 * How effective is this solution in meeting the target user’s needs? 
 * Does this solution adequately address the problem or opportunity identified?
 
 ---
 
-### Technical Decentralized Data and  Smart Contracts
+### Technical Decentralized Data and  Smart Contracts &#x1F49C;
 
 Marketplace facilitate access to the assets(data) made avaliable by Ocean Protocol and cater to the needs to AI researchers and data scientists.
 
@@ -62,7 +69,7 @@ Phase 2 includes the first implementation of an off-chain network, which will ru
 
 ---
 
-### Technical Smart Contract
+### Technical Smart Contract &#x1F49C;
 
 Ocean provides the mechanism for storing every assets's metadata including links to the asset, asset ownership and associated IP licensing information.
 
@@ -72,8 +79,8 @@ The Data Marketplace contract is publicly available and can be used by any other
 
 
 ---
-
-### Technical Ocean Protocol 
+ 
+### Technical Ocean Protocol &#x1F49C;
 
 
 Open source protocol. Opening access to data. 
@@ -86,7 +93,7 @@ Most companies have tremendous amounts of data, but have difficulty exploiting i
 
 ---
 
-### Technical
+### Technical &#x1F49C;
 Both client and server are written in TypeScript 
 
 * Client : React app setup with squid-js, bootstrapped with Create React App
@@ -95,7 +102,7 @@ Both client and server are written in TypeScript
 
 ---
 
-### Technical Dependencies 
+### Technical Dependencies &#x1F49C;
 * oceaEnprotocol /keeper-contracts and /squids 
 * react, react -dom - scripts 
 * web3
@@ -112,7 +119,7 @@ Both client and server are written in TypeScript
 
 ---
 
-### Technical - In Development: Get Started Locally
+### Technical - In Development: Get Started Locally &#x1F49C;
 
 Before you can run this application, you will need to install Node.js on your machine. Once you've installed Node.js, you can use npm to run commands listed below.
 
@@ -140,7 +147,7 @@ Be sure to login into your MetaMask account and select the respective network. B
     Pacific PoA network (RPC https://pacific.oceanprotocol.com)
 ---
 
-### Technical - In Production
+### Technical - In Production &#x1F49C;
 
 Use [Ocean Protocol's Barge](https://github.com/oceanprotocol/barge) to run Ocean Protocol components on local machine to run in production
 
@@ -151,13 +158,13 @@ Use [Ocean Protocol's Barge](https://github.com/oceanprotocol/barge) to run Ocea
     Recommended: a keeper node with the keeper contracts deployed to it, connected to an Ocean network
     Optional: your own Secret Store nodes (for a more advanced setup)
 
-### Technical - Testing 
+### Technical - Testing &#x1F49C;
 
 [Test on Ocean Protocol testnet](https://docs.oceanprotocol.com/concepts/testnets/)
 
 ---
 
-### Data and Pricing
+### Data and Pricing &#x1F49C;
 
 Ocean designed for industrial-scale use. Create a global supply chain of data for AI consumption.
 
@@ -173,7 +180,7 @@ Pricing of the data
 * PRoprietary/Regulated, non-free, fungible data
 * PRorpiteary/Regulated, free, non-fungible data
 
-### Data Tokens 
+### Data Tokens &#x1F49C;
 
 DToken (short for DataToken) maps any asset or data in the real world to the digital assets in Ocean blockchain. For data or offchain assets to be traded, it is necessary to define Data eXchange smart contracts according to ontology contract asset specification, so as to facilitate chain transactions.
 
@@ -181,7 +188,7 @@ The DataToken includes metadata MetaData, MetaData is a description of the data 
 
 In the process of instantiating the DToken, it will be used in combination with cryptographic components, such as digital watermarking, etc., for data transaction traceability and copyright tracking.
 
-### Data Marketplace 
+### Data Marketplace &#x1F49C;
 
 Data Marketplaces connect data providers and consumers. The asset to be consumed is data. 
 
@@ -207,13 +214,13 @@ Ocean has data Science tools like Jupyter notebook (implemented with Manta Ray  
     
 ---
 
-### Conclusion 
+### Conclusion &#x1F49C;
 
-The goal of Ocean is to unlock massive troves of data for consumption by AI in an equitabe and secure manner. The deployment of Starfish Decentralized Data Marketplace on Ocean Protocol is done by asset tokenization on the blockchain. The power is redistributed by liberating siloed data and opening it up to data scientists and AI researchers. This will help engage the community, leverage data, and revolutionize the world. 
+The goal of Ocean is to unlock massive troves of data for consumption by AI in an equitabe and secure manner. Starfish Decentralized Data Marketplace on Ocean Protocol is done by asset tokenization on the blockchain. The power is redistributed by liberating siloed data and opening it up to data scientists and AI researchers. This will help engage the community, leverage data, and revolutionize the world. 
 
 ---
 
-### References 
+### References &#x1F49C;
 * Ocean Protocol github repos https://github.com/oceanprotocol
 * Developer Documentation : https://docs.oceanprotocol.com/
 * Ocean's example marketplace: https://github.com/oceanprotocol/commons
