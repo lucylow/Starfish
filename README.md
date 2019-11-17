@@ -155,6 +155,8 @@ Use [Ocean Protocol's Barge](https://github.com/oceanprotocol/barge) to run Ocea
     Recommended: a keeper node with the keeper contracts deployed to it, connected to an Ocean network
     Optional: your own Secret Store nodes (for a more advanced setup)
 
+---
+
 ### Technical - Testing &#x1F49C;
 
 [Test on Ocean Protocol testnet](https://docs.oceanprotocol.com/concepts/testnets/)
@@ -177,6 +179,8 @@ Pricing of the data
 * PRoprietary/Regulated, non-free, fungible data
 * PRorpiteary/Regulated, free, non-fungible data
 
+---
+
 ### Data Tokens &#x1F49C;
 
 DToken (short for DataToken) maps any asset or data in the real world to the digital assets in Ocean blockchain. For data or offchain assets to be traded, it is necessary to define Data eXchange smart contracts according to ontology contract asset specification, so as to facilitate chain transactions.
@@ -184,6 +188,8 @@ DToken (short for DataToken) maps any asset or data in the real world to the dig
 The DataToken includes metadata MetaData, MetaData is a description of the data structure and constraints for the capitalized data.
 
 In the process of instantiating the DToken, it will be used in combination with cryptographic components, such as digital watermarking, etc., for data transaction traceability and copyright tracking.
+
+---
 
 ### Data Marketplace &#x1F49C;
 
