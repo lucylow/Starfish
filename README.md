@@ -224,9 +224,7 @@ The goal of Ocean is to unlock massive troves of data for consumption by AI in a
 ---
 
 ### References &#x1F49C;
-* Ocean Protocol github repos https://github.com/oceanprotocol
-* Developer Documentation : https://docs.oceanprotocol.com/
-* Ocean's example marketplace: https://github.com/oceanprotocol/commons
+* Ocean Developer Documentation : https://docs.oceanprotocol.com/ and https://github.com/oceanprotocol/commons
 * Whitepaper on Marketplace. https://oceanprotocol.com/marketplace-framework.pdf
 * Code. Enigma's Marketplace smart contract . https://github.com/enigmampc/smart_contract_marketplace/blob/master/contracts/Marketplace.sol
 * Datum's data marketplace. https://datum.org/
