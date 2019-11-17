@@ -1,8 +1,8 @@
 # Starfish: Decentralized Data Marketplace &#x1F49C;
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/pulls)
+  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Starfish.svg)](https://github.com/lucylow/Starfish/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Starfish.svg)](https://github.com/lucylow/Starfish/pulls)
   [![License](https://img.shields.io/cran/l/devtools.svg)]()
    
    
