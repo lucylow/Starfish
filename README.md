@@ -204,9 +204,12 @@ Data Marketplaces connect data providers and consumers. The asset to be consumed
  
 Ocean has data Science tools like Jupyter notebook (implemented with Manta Ray  using Ocean APIs to abstract the smart contracts layer) can be directly linked with Ocean allowing scientists to search, access, and run analysis directly on their Ocean assets.
     
-    
+---
+
 ### Conclusion 
+
 The goal of Ocean is to unlock massive troves of data for consumption by AI in an equitabe and secure manner. The deployment of Starfish Decentralized Data Marketplace on Ocean Protocol is done by asset tokenization on the blockchain. The power is redistributed by liberating siloed data and opening it up to data scientists and AI researchers. This will help engage the community, leverage data, and revolutionize the world. 
+
 ---
 
 ### References 
