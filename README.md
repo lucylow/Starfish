@@ -12,7 +12,7 @@ Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock D
 ### Introduction
 Quality data is an asset for data scientists and researchers. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
 
-Target base: AI specialists, data scientists, big data engineers, or buisness intelligence professionals.
+Target: AI specialists, data scientists, big data engineers, or buisness intelligence professionals.
 
 ---
 Judging Criteria 
@@ -76,9 +76,7 @@ The Data Marketplace contract is publicly available and can be used by any other
 ### Technical Ocean Protocol 
 
 
-Open source protocol. 
-
-Opening access to data. 
+Open source protocol. Opening access to data. 
 
 Ocean helps to unlock data, particularly for AI. It is designed for scale and uses blockchain technology that allows data to be shared and sold in a safe, secure and transparent manner.
 
@@ -88,7 +86,7 @@ Most companies have tremendous amounts of data, but have difficulty exploiting i
 
 ---
 
-### Technical HOw it works 
+### Technical
 Both client and server are written in TypeScript 
 
 * Client : React app setup with squid-js, bootstrapped with Create React App
@@ -125,7 +123,7 @@ Before you can run this application, you will need to install Node.js on your ma
 
 Open http://localhost:3000 in your browser to see the following: 
 
-[Screenshot of Lucy-s-Data-Marketplace here.]
+[Screenshot of front end of Data-Marketplace here.]
 
 Connect to an Ocean network. By default, the client will connect to Ocean components running within Ocean's Pacific network remotely. It uses a burner wallet connected to the correct network automatically. If you choose to use MetaMask, you need to connect to the Pacific network. To do this:
 
@@ -144,7 +142,7 @@ Be sure to login into your MetaMask account and select the respective network. B
 
 ### Technical - In Production
 
-Use [Barge](https://github.com/oceanprotocol/barge) to run Ocean Protocol components on local machine to run in production
+Use [Ocean Protocol's Barge](https://github.com/oceanprotocol/barge) to run Ocean Protocol components on local machine to run in production
 
     Your marketplace/publisher app
     Aquarius
@@ -159,10 +157,9 @@ Use [Barge](https://github.com/oceanprotocol/barge) to run Ocean Protocol compon
 
 ---
 
-### Datasets
+### Data and Pricing
 
-Ocean designed for industrial-scale use.
-Create a global supply chain of data for AI consumption.
+Ocean designed for industrial-scale use. Create a global supply chain of data for AI consumption.
 
 The main actors in Ocean Protocol are data providers, data consumers, data marketplaces, service providers and network keepers. Data providers offer data. Data consumers obtain data for their own use. Data marketplaces connect data producers and data consumers. 
 
@@ -176,11 +173,15 @@ Pricing of the data
 * PRoprietary/Regulated, non-free, fungible data
 * PRorpiteary/Regulated, free, non-fungible data
 
-DToken (short for DataToken) maps any asset or data in the real world to the digital assets in Ontology blockchain. For data or offchain assets to be traded, it is necessary to define Data eXchange smart contracts according to ontology contract asset specification, so as to facilitate chain transactions.
+### Data Tokens 
+
+DToken (short for DataToken) maps any asset or data in the real world to the digital assets in Ocean blockchain. For data or offchain assets to be traded, it is necessary to define Data eXchange smart contracts according to ontology contract asset specification, so as to facilitate chain transactions.
 
 The DataToken includes metadata MetaData, MetaData is a description of the data structure and constraints for the capitalized data.
 
 In the process of instantiating the DToken, it will be used in combination with cryptographic components, such as digital watermarking, etc., for data transaction traceability and copyright tracking.
+
+### Data Marketplace 
 
 Data Marketplaces connect data providers and consumers. The asset to be consumed is data. 
 
