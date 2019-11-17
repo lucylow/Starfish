@@ -7,16 +7,22 @@
    
    
 ---
-### Introduction &#x1F49C;
+### Problem  &#x1F49C;
 
-The Proof of Concept (PoC) Data Marketplace. A decentralized data exchange that inventivies publishing data for training artificial intelligence models. Encourages distribution and consumption of data for AI specialists, data scientists, big data engineers, or buisness intelligence professionals. Quality data is an asset for data scientists and researchers. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
+Quality data is an asset for data scientists and researchers. There is a problem with the distribution and consumption of data for AI specialists, data scientists, big data engineers, or buisness intelligence professionals.
+
+
+### Solution: Starfish &#x1F49C;
+
+The Proof of Concept (PoC) Decentralized Data Marketplace. A decentralized data exchange that inventivies publishing data for training artificial intelligence models. Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. 
 
 Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock Data for Artifical Intelligence"](https://oceanprotocol.com/marketplace-framework.pdf).
+
+Join the Ecosystem building the future of distributed, decentralized, and permissionless technologies, together.
 
 * Development of data trusts, to improve trust and ease around sharing data
 * Making research data machine more readable
 * Supporting text and data mining as standards and essential tool for research
-
 
 ---
 ### Judging Criteria &#x1F49C; 
@@ -35,6 +41,40 @@ Effectiveness
 * How effective is this solution in meeting the target user’s needs? 
 * Does this solution adequately address the problem or opportunity identified?
 
+### Business 
+
+---
+
+
+### Applications: Market Opportunity 
+
+The primary users of the Starfish marketplace are those who benefit from quality data: 
+
+1. Individuals
+  * AI specialists
+  * data scientists
+  * big data engineers
+  * buisness intelligence professionals
+2. Companies - Startups to multi-national enterprises
+  * Accenture
+  * CGI
+  * KPMG
+3. Goverment
+
+----
+### Business Revenue Model
+
+Starfish will be financially sustainable through it's revenue from the **Subscription (Monthly fee) model**. A Subscription holds the reference to instances of user-defined Contracts. Contracts are the custom and user defined artifact that describe a data subscription service. These are custom contracts that the buyer interacts with. The existence of these contracts live within subscriptions. 
+
+**The data consumers are the users in the Data Marketplace that pay for data.**  
+
+Every payment is first made to the Marketplace contract and is held until the Subscription is expired or the Data provider is punished (should their data stop being available). In case the data provider was punished then and only then, the subscriber will able to ask for a refund. The refund is prorated on the fraction of the monthly subscription when the data was available, and will be deposited back to the subscriber’s address. 
+
+Data consumer needs to subscribe to the desired dataset to access an existing dataset:
+1. The subscriber approves the Starfish Data Marketplace contract as a spender in the ERC20 contract on their behalf for the specified amount (the monthly subscription for that dataset).
+2. Once the Marketplace contract has been approved, a consumer can send a subscription transaction that includes the desired dataset name. The price is specified in the dataset stored in the marketplace contract, and the amount is transferred on behalf of the user.
+
+    
 ---
 
 ### Technical Decentralized Data and  Smart Contracts &#x1F49C;
@@ -49,11 +89,6 @@ Data Marketplace is governed by specific contracts deployed on Ethereum network,
 
 Data Marketplace contract is publicly available and can be used by any other contract in the network. The smart contract stores each of the data sets metadata (owner, price, number of subscriptions, etc.) and information about each subscription to any data set (price, start time and end time).
 
-A Subscription holds the reference to instances of user-defined Contracts.
-
-The subscribers are the users in the Data Marketplace that pay for data. Every payment is first made to the Marketplace contract and is held until the Subscription is expired or the Data curator is punished (should their data stop being available). In case the data provider was punished then and only then, the subscriber will able to ask for a refund. The refund is prorated on the fraction of the monthly subscription when the data was available, and will be deposited back to the subscriber's address.
-
-Contracts are the custom and user defined artifact that describe a data subscription service. These are custom contracts that the buyer interacts with. The existence of these contracts live within subscriptions. Additional client code accompanies Contracts, where either the consumer and service provider run a custom client and server.
 
 ...
 
