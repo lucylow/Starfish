@@ -30,7 +30,7 @@ Built on top of the Ocean Protocol. Starfish helps to unlock data, particularly 
 
 ### Applications: Market Opportunity 
 
-The primary users of the Starfish marketplace are those who benefit from quality data: 
+The primary users of the Starfish marketplace are those who benefit from quality data. The application is designed for industrial-scale use in order to create a global supply chain of data for AI consumption. The main actors are data providers, data consumers, data marketplaces, service providers and network keepers. 
 
 **1. Individuals**
   * AI specialists
@@ -65,8 +65,6 @@ The primary users of the Starfish marketplace are those who benefit from quality
 
 ### Business: Data and Pricing &#x1F49C;
 
-Ocean designed for industrial-scale use. Create a global supply chain of data for AI consumption. The main actors in Ocean Protocol are data providers, data consumers, data marketplaces, service providers and network keepers. Data providers offer data. Data consumers obtain data for their own use. Data marketplaces connect data producers and data consumers. 
-
 **Types of Data**
 * Proprietary Data
 * Regulated Data
@@ -81,7 +79,8 @@ Ocean designed for industrial-scale use. Create a global supply chain of data fo
 
 ### Data Marketplace &#x1F49C;
 
-Data Marketplaces connect data providers and consumers. The asset to be consumed is data. 
+Data Marketplaces connect data providers and consumers. The asset to be consumed is data. Data providers offer data. Data consumers obtain data for their own use. Data marketplaces connect data producers and data consumers. 
+
 
 * **Data Providers**
     * Provide the network with data and associated serices in exchange for tokens/ data commons
