@@ -3,8 +3,7 @@
   [![Status](https://img.shields.io/badge/status-work--in--progress-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Starfish.svg)](https://github.com/lucylow/Starfish/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Starfish.svg)](https://github.com/lucylow/Starfish/pulls)
-  [![License](https://img.shields.io/cra  [![License](https://img.shields.io/aur/license/android-studio.svg)]()
-n/l/devtools.svg)]()
+  [![License](https://img.shields.io/aur/license/android-studio.svg)]()
    
    
 
