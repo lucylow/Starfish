@@ -36,9 +36,9 @@ The primary users of the Starfish marketplace are those who benefit from quality
   * AI specialists
   * Data scientists
   * Big data engineers
-  * Business intelligence
   
-**2. Corporate : From AI startups to international enterprises**
+**2. Corporate
+  * From AI startups to international enterprises
   * Accenture
   * CGI
   * KPMG
@@ -78,7 +78,6 @@ The primary users of the Starfish marketplace are those who benefit from quality
 
 Data Marketplaces connect data providers and consumers. The asset to be consumed is data. Data providers offer data. Data consumers obtain data for their own use. Data marketplaces connect data producers and data consumers. 
 
-
 * **Data Providers**
     * Provide the network with data and associated serices in exchange for tokens/ data commons
     * As a provider you can unlock your data and earn revenue
@@ -113,7 +112,7 @@ Starfish Data Marketplace is governed by a smart contract deployed on the Ethere
 * Data sets are provided off-chain by several providers, and their storage is managed independently from the logic embedded in the smart contract.
 * Provides the mechanism for storing every assets's metadata including links to the asset, asset ownership and associated IP licensing information.
 * Data Tokens maps any asset or data in the real world to the digital assets in Ocean blockchain. For data or offchain assets to be traded, it is necessary to define smart contracts according to ontology contract asset specification, so as to facilitate chain transactions. The DataToken includes metadata MetaData, MetaData is a description of the data structure and constraints for the capitalized data.
-* Digital watermarking  for data transaction traceability and copyright tracking when instantiating the Data Token
+* Digital watermarking for data transaction traceability and copyright tracking when instantiating the Data Token
 
 The Data Marketplace contract is publicly available and can be used by any other contract in the network. The smart contract stores each of the data sets metadata (owner, price, number of subscriptions,...) and information about each subscription to any data set (price, start time and end time).
 
