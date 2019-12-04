@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
 import { Ocean } from '@oceanprotocol/squid'
 import Web3 from 'web3'
+import asset from './asset'
 
 let web3
 
@@ -13,6 +14,8 @@ if (window.web3) {
 class App extends Component {
   state = {
     ocean: undefined,
+    results: [],
+    ddo: undefined    
   }
 
   async componentDidMount() {
@@ -29,6 +32,50 @@ class App extends Component {
     console.log('Finished loading contracts.')
   }
 
+
+  async searchAssets() {
+    try {
+      const search = await this.state.ocean.assets.search(
+        '10 Monkey Species Small'
+      )
+      this.setState({ results: search.results })
+      console.log(search)
+      alert(
+        'Asset successfully retrieved. Look into your console to see the search response.'
+      )
+    } catch (error) {
+      console.error(error.message)
+    }
+  }
+
+  async consumeAsset() {
+    try {
+      // get all accounts
+      const accounts = await this.state.ocean.accounts.list()
+      // get our registered asset
+      const consumeAsset = this.state.ddo
+      // get service we want to execute
+      const service = consumeAsset.findServiceByType('access')
+      // order service agreement
+      const agreement = await this.state.ocean.assets.order(
+        consumeAsset.id,
+        service.index,
+        accounts[0]
+      )
+      // consume it
+      await this.state.ocean.assets.consume(
+        agreement,
+        consumeAsset.id,
+        service.index,
+        accounts[0],
+        '',
+        0
+      )
+    } catch (error) {
+      console.error(error.message)
+    }
+  }
+
   render() {
     return (
       <div
@@ -42,6 +89,15 @@ class App extends Component {
         </h1>
 
         {!web3 && <p>No Web3 Browser!</p>}
+      
+        <button onClick={() => this.registerAsset()} disabled={!web3}>
+          Register asset
+        </button>
+        <hr />
+        <button onClick={() => this.searchAssets()}>Search assets</button>
+        <button onClick={() => this.consumeAsset()} disabled={!web3}>
+          Consume asset
+        </button>      
       </div>
     )
   }
