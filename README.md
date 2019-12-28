@@ -11,8 +11,6 @@
 
 There is a need for high quality data in research. The problem is with distribution and consumption of data for AI specialists, data scientists, big data engineers, and business intelligence professionals. Most companies have tremendous amounts of data, but have difficulty exploiting. Conversely, many others are starving for data, particularly in AI. **Starfish allows data providers to share data, while maintaining control and having transparency.**
 
-
-![image](https://github.com/lucylow/Starfish/blob/master/patrick%20the%20data%20starfish%20.png)
 ---
 
 ### Solution: Starfish Decentralized Data Marketplace &#x1F49C;
