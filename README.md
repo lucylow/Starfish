@@ -16,14 +16,14 @@ There is a need for high quality data in research. The problem is with distribut
 ### Solution: Starfish Decentralized Data Marketplace &#x1F49C;
 
 **The Proof of Concept (PoC) Decentralized Data Marketplace.** A data exchange that incentivies publishing data for training artificial intelligence models. The primary users of the Starfish marketplace are those who benefit from quality data: 
-Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets.
+Help grow the decentralized data ecosystem by allowing users to explore, download, and publish open data sets. Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock Data for Artifical Intelligence"](https://oceanprotocol.com/marketplace-framework.pdf).
 
-Built on top of the Ocean Protocol. Starfish helps to unlock data, particularly for AI. It is designed for scale and uses blockchain technology that allows data to be shared and sold in a safe, secure and transparent manner. Data owners cannot be locked-in to any single marketplace. The data owner controls each dataset. 
+Built on top of the Ocean Protocol. Starfish helps to unlock data, particularly for AI. It is designed for scale and uses blockchain technology that allows data to be shared and sold in a safe, secure and transparent manner. Data owners cannot be locked-in to any single marketplace. The data owner controls each dataset:
 * Development of data trusts, to improve trust and ease around sharing data
 * Making research data machine more readable
 * Supporting text and data mining as standards and essential tool for research
 
-**Implementation of the paper ["A Decentralized Data Exchance Protocol to Unlock Data for Artifical Intelligence"](https://oceanprotocol.com/marketplace-framework.pdf).** 
+
 
 
 ---
@@ -57,10 +57,13 @@ The primary users of the Starfish marketplace are those who benefit from quality
 * These are custom contracts that the data provider and consumer interacts with. 
 * The existence of these contracts live within subscriptions. 
 
+---
+
+## Data &#x1F49C;
+
 **The data consumers are the users in the Data Marketplace that pay for data.**  Data consumer needs to subscribe to the desired dataset to access an existing dataset:
   1. The subscriber approves the Starfish Data Marketplace contract as a spender in the ERC20 contract on their behalf for the specified amount (the monthly subscription for that dataset).
   2. Once the Marketplace contract has been approved, a consumer can send a subscription transaction that includes the desired dataset name. The price is specified in the dataset stored in the marketplace contract, and the amount is transferred on behalf of the user.
-  
 
 **Types of Data**
 * Proprietary Data
@@ -125,6 +128,7 @@ Both client and server are written in TypeScript:
 * Client : React app setup with squid-js, bootstrapped with Create React App
 * Server :  Node.js app,
 
+requirements.txt
 * oceaenprotocol /keeper-contracts and /squids 
 * react, react -dom - scripts 
 * web3
