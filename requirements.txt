@@ -1,0 +1,12 @@
+* oceaenprotocol /keeper-contracts and /squids 
+* react, react -dom - scripts 
+* web3
+* Node.js >=8 <12
+* npm
+* Ocean Protocol components (with Docker)
+* MetaMask
+* Storage: Azure or AWS 
+* React.JS app - Seting up with a dataset
+* Wallets : Setup MetaMask, connect to Ocean Network, Use Wallet to manage Ocean Tokens and make transfers 
+* Ganache -Test network
+* Truffle - Testing and deployment.
